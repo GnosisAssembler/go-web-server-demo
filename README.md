@@ -4,7 +4,7 @@
 
 > A simple web server template in Go
 
-##Getting started
+## Getting started
 ```
 # clone repo 
 git clone https://github.com/pankaryp/go-web-server-demo.git
